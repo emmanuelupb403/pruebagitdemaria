@@ -23,5 +23,7 @@ class ExampleInstrumentedTest {
     }
     hxscdsckigearhgkgur
 
+    hefoihhgewhoghr
+
 
 }
